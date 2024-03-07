@@ -1,0 +1,102 @@
+.modal-close{
+    color: black;
+    position: absolute;
+    top:10px;
+    right: 15px;
+}
+
+.modal-wrapper{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    border-radius: 16px;
+    width: 560px;
+    height: 450px;
+    background-color: #fff; 
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    background: #fff;   
+}
+
+.modal-wrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    z-index: 1000;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 999; 
+}
+
+.product-title{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    color: #191919;
+    text-align: center;
+}
+
+.modal-subtitle{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #7f7f7f;
+}
+
+.modal-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    background: #8a33fd;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    margin-top: 25px;
+}
+
+.first-delete-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    background: #8a33fd;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    margin-top: 25px;
+}
+
+.second-delete-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    background: #d5cbe2;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #8a33fd;
+    margin-top: 25px;
+}

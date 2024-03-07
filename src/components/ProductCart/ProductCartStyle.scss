@@ -1,0 +1,45 @@
+.product-image{
+    width: 300px;
+    height: 300px;
+}
+
+.product-card{
+    width: 320px;
+    height: 550px;
+    padding: 10px;
+}
+
+.product-name{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
+
+.product-color{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
+
+.product-price{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
+
+.product-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    background: #8a33fd;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    margin-top: 25px;
+}
+
+.functional-wrapper{
+    display: flex;
+    align-items: center;
+}

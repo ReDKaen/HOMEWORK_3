@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "MSI Katana 15 B13VGK",
+        "price": "61.299 грн",
+        "image": "./2425225845.jpg",
+        "articule": "1",
+        "color": "Чорний"
+    },
+    {
+        "name" : "Gigabyte G5 KF",
+        "price": "36.399 грн",
+        "image": "./64_1500.jpg",
+        "articule": "2",
+        "color": "Сірий"
+    },
+    {
+        "name" : "Asus TUF Gaming F15",
+        "price": "52.299 грн",
+        "image": "./asus-vivobook-15x-oled-k3504za-ma284-90nb11s2-m00c00-cool-silver_1_.jpg",
+        "articule": "3",
+        "color": "Білий"
+    },    
+    {
+        "name" : "Apple MacBook Air 13 ",
+        "price": "31.600 грн",
+        "image": "./noutbuk-lenovo-legion-5-15arp8-83ef0002us-12068907290750.png",
+        "articule": "4",
+        "color": "Білий"
+    },    
+    {
+        "name" : "Asus Zenbook DUO",
+        "price": "94.400 грн",
+        "image": "./2425225845.jpg",
+        "articule": "5",
+        "color": "Чорний"
+    },    
+    {
+        "name" : "Gigabyte G5 MF",
+        "price": "32.200 грн",
+        "image": "./64_1500.jpg",
+        "articule": "6",
+        "color": "Чорний"
+    },    
+    {
+        "name" : "Lenovo LOQ 15APH8",
+        "price": "31.500 грн",
+        "image": "./asus-vivobook-15x-oled-k3504za-ma284-90nb11s2-m00c00-cool-silver_1_.jpg",
+        "articule": "7",
+        "color": "Сірий"
+    },    
+    {
+        "name" : "Lenovo Legion 5 15ARP8",
+        "price": "47.200 грн",
+        "image": "./noutbuk-lenovo-legion-5-15arp8-83ef0002us-12068907290750.png",
+        "articule": "8",
+        "color": "Чорний"
+    },    
+    {
+        "name" : "Asus Vivobook 15X OLED K3504ZA",
+        "price": "19.000 грн",
+        "image": "./2425225845.jpg",
+        "articule": "9",
+        "color": "Білий"
+    },    
+    {
+        "name" : "Apple MacBook Pro 14",
+        "price": "62.500 грн",
+        "image": "./asus-vivobook-15x-oled-k3504za-ma284-90nb11s2-m00c00-cool-silver_1_.jpg",
+        "articule": "10",
+        "color": "Білий"
+    }
+]

@@ -1,0 +1,30 @@
+.busket-cart{
+    display: flex;
+    gap: 15px;
+}
+
+.basket-product-image{
+    width: 150px;
+    height: 150px;
+}
+
+.delet-from-busket-button{
+    background: none;
+    border: none;
+    color: beige;
+}
+
+.basket-product-name{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
+
+.basket-product-color{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
+
+.basket-product-price{
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+}
